@@ -4,10 +4,6 @@ Quick meal ordering is used to pre order the food by the customer in the mobile 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/54a87b1ff9a74dbeb5268c3d67dbcb15)](https://www.codacy.com/gh/lavanya-k19/QUICK-MEAL-ORDERING/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lavanya-k19/QUICK-MEAL-ORDERING&amp;utm_campaign=Badge_Grade)
 
-[![Unit testing](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/unittest.yml/badge.svg)](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/unittest.yml)
-
-[![CI](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/build.yml/badge.svg)](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/build.yml)
-
-[![cppcheck-action](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/cppcheck.yml)
+[![Unit testing](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/unittest.yml/badge.svg)](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/unittest.yml)  [![CI](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/build.yml/badge.svg)](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/build.yml)   [![cppcheck-action](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/cppcheck.yml)
 
 
