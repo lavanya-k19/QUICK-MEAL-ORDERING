@@ -6,6 +6,8 @@ Quick meal ordering is used to pre order the food by the customer in the mobile 
 
 [![Unit testing](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/unittest.yml/badge.svg)](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/unittest.yml)
 
+[![CI](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/build.yml/badge.svg)](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/build.yml)
+
 [![cppcheck-action](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/lavanya-k19/QUICK-MEAL-ORDERING/actions/workflows/cppcheck.yml)
 
 
