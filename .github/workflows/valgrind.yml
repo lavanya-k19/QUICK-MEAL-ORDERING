@@ -22,4 +22,4 @@ jobs:
     - name: make test
       run: |
         make test -C Implementation/
-        valgrind ./Implementation/build/Test_QuickMeal.out
+        valgrind ./Implementation/build/Test_QuickMealOrdering.out
