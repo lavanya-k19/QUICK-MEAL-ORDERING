@@ -17,6 +17,11 @@ void test_hotels(void)
   TEST_ASSERT_EQUAL(0,foodorder(6));
   //TEST_ASSERT_EQUAL(0, div(10, 0));
 }*/
+void test_food_order(void)
+{
+      TEST_ASSERT_EQUAL(0,food_order(6));
+
+}
 
 int main()
 {UNITY_BEGIN();
@@ -49,6 +54,9 @@ int main()
         break;
     }
 RUN_TEST(test_hotels);
+ RUN_TEST(test_food_order);
+
+ 
 
  // RUN_TEST(test_delete);
   //RUN_TEST(test_enterinfo);
