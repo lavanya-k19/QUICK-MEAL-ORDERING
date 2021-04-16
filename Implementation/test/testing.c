@@ -7,6 +7,8 @@
 void setUp(){}
 /* Required by the unity test framework */
 void tearDown(){}
+
+
 void test_hotels(void)
 {
   TEST_ASSERT_EQUAL(0,hotels(6));
@@ -18,11 +20,7 @@ void test_validate(void)
       TEST_ASSERT_EQUAL(0,validate(1));
 
 }
-/*void test_food_order(void)
-{
-  TEST_ASSERT_EQUAL(0,foodorder(6));
-  //TEST_ASSERT_EQUAL(0, div(10, 0));
-}*/
+
 void test_food_order(void)
 {
       TEST_ASSERT_EQUAL(0,food_order(1));
