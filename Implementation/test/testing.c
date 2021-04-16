@@ -3,6 +3,7 @@
 #include<stdlib.h>
 #include "func.h"
 #include "unity.h"
+#include<ctype.h>
 void setUp(){}
 /* Required by the unity test framework */
 void tearDown(){}
